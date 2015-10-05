@@ -7,6 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: lanceptb
 github_username:  lanceptb
-
+linkedin_username: lanceptb
 # Build settings
 markdown: kramdown
